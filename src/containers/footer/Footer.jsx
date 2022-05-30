@@ -11,8 +11,8 @@ const Footer = () => {
             <div className='gpt3__footer-btn'>
                 <p>Request Early Access</p>
             </div>
-            <div className='gpt__footer-links'>
-                <div className='gpt__footer-logo'>
+            <div className='gpt3__footer-links'>
+                <div className='gpt3__footer-logo'>
                     <img src={gpt3Logo} alt='logo' />
                     <p>Crechterwoord K12 182 DK Alknjkcb, <br /> All Rights Reserved</p>
                 </div>
